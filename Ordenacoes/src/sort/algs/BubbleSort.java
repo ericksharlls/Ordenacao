@@ -3,7 +3,6 @@ import java.util.Date;
 
 public class BubbleSort{
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 				int vetorPiorCaso[] = Utilitario.inputToArray();
 				Date dt  = new Date();
 								
